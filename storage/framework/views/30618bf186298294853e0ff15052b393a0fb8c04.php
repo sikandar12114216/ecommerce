@@ -1,0 +1,2 @@
+Click here for change your password
+<a href="<?php echo e(url('/forgot_password_change/')); ?>/<?php echo e($rand_id); ?>">Click here</a> to verify your email id.<?php /**PATH D:\laravel\ecom\my_ecom\resources\views/front/forgot_email.blade.php ENDPATH**/ ?>

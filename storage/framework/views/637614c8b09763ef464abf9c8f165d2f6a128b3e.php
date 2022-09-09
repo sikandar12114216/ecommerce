@@ -1,0 +1,2 @@
+Welcome <?php echo e($name); ?><br/>
+<a href="<?php echo e(url('/verification/')); ?>/<?php echo e($rand_id); ?>">Click here</a> to verify your email id.<?php /**PATH D:\laravel\ecom\my_ecom\resources\views/front/email_verification.blade.php ENDPATH**/ ?>
